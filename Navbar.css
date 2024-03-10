@@ -1,0 +1,12 @@
+.navbar-nav > .nav-item > a{
+    text-decoration: none;
+    font-size: 30px;
+    margin: 0 20px;
+    text-transform: uppercase;
+}
+.navbar-nav > .nav-item > a.active{
+    color: orange;
+    font-style: italic;
+    font-weight: 900;
+    text-shadow: 2px 2px 5px black;
+}
